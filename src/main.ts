@@ -27,4 +27,4 @@ app.use(directive);
 
 app.mount('#app');
 
-console.log('app1:', app)
+console.log('app12:', app)
