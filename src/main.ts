@@ -26,3 +26,5 @@ app.use(globalComponents);
 app.use(directive);
 
 app.mount('#app');
+
+console.log('app:', app)
